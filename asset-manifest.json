@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MisTareasReact/static/css/main.db1b026f.chunk.css",
+    "main.js": "/MisTareasReact/static/js/main.602151cc.chunk.js",
+    "main.js.map": "/MisTareasReact/static/js/main.602151cc.chunk.js.map",
+    "runtime-main.js": "/MisTareasReact/static/js/runtime-main.4d42784a.js",
+    "runtime-main.js.map": "/MisTareasReact/static/js/runtime-main.4d42784a.js.map",
+    "static/js/2.e3e9f745.chunk.js": "/MisTareasReact/static/js/2.e3e9f745.chunk.js",
+    "static/js/2.e3e9f745.chunk.js.map": "/MisTareasReact/static/js/2.e3e9f745.chunk.js.map",
+    "static/js/3.d6b79ae7.chunk.js": "/MisTareasReact/static/js/3.d6b79ae7.chunk.js",
+    "static/js/3.d6b79ae7.chunk.js.map": "/MisTareasReact/static/js/3.d6b79ae7.chunk.js.map",
+    "index.html": "/MisTareasReact/index.html",
+    "static/css/main.db1b026f.chunk.css.map": "/MisTareasReact/static/css/main.db1b026f.chunk.css.map",
+    "static/js/2.e3e9f745.chunk.js.LICENSE.txt": "/MisTareasReact/static/js/2.e3e9f745.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MisTareasReact/static/media/bg.90ed9258.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d42784a.js",
+    "static/js/2.e3e9f745.chunk.js",
+    "static/css/main.db1b026f.chunk.css",
+    "static/js/main.602151cc.chunk.js"
+  ]
+}
