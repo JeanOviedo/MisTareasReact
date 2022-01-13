@@ -1,2 +1,2 @@
-# SimpleCrudReact
-Un crud simple
+# MisTareasReact
+Una app para almacenar nuestras tareas
